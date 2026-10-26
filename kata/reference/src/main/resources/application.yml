@@ -1,0 +1,6 @@
+kata:
+  greeting: Hello
+
+spring:
+  jpa:
+    open-in-view: false
